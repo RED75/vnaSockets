@@ -26,6 +26,7 @@ public class GreetServer {
                 out.println("unrecognised greeting");
         } catch (IOException e) {
 //            LOG.debug(e.getMessage());
+//            blabla
         }
 
     }
